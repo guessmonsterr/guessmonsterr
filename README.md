@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://file.garden/ZnSfiDDVpDMuyx4J/tendobanner" width="50%">
+  <img src="https://file.garden/ZnSfiDDVpDMuyx4J/tendobanner" width="80%">
 </p>
 
 </p>
